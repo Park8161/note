@@ -35,3 +35,4 @@ Import는 직접 작성하지 않고, **단축키**인 `ctrl+shift+O`를 누른�
 
 주소를 링크하려면, [Github Gist](https://gist.github.com/Park8161) 의 방법을 쓰면 된다  
 이미지를 링크하려면, ![이미지](https://image.utoimage.com/preview/cp872722/2022/12/202212008462_500.jpg) 의 방법을 쓴다
+내가 가지고 있는 이미지를 링크하려면, ![이미지](./123.jfif) 의 방법을 쓴다
